@@ -9,9 +9,6 @@
     },
     "formalCharges": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
   },
-  "partialCharges": {
-    "Gasteiger": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
-  },
   "bonds": {
     "connections": {
       "index": [13, 7, 12, 6, 7, 6, 7, 8, 6, 5, 14, 8, 8, 3, 5, 11, 5, 4, 3, 4, 3, 1, 4, 10, 0, 1, 1, 9, 1, 2]
@@ -19,7 +16,6 @@
     "order": [1, 1, 2, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1]
   },
   "properties": {
-    "name": "benzal_chloride.out",
     "totalCharge": 0,
     "totalSpinMultiplicity": 1
   }

@@ -9,9 +9,6 @@
     },
     "formalCharges": [0, 0, 0, 0, 0, 0]
   },
-  "partialCharges": {
-    "Gasteiger": [-0.035093, -0.214827, -0.315903, 0.208181, 0.187401, 0.170242]
-  },
   "bonds": {
     "connections": {
       "index": [3, 1, 0, 1, 1, 2, 5, 2, 2, 4]
@@ -19,7 +16,6 @@
     "order": [1, 1, 2, 1, 1]
   },
   "properties": {
-    "name": "vinyl_iodide.out",
     "totalCharge": 0,
     "totalSpinMultiplicity": 1
   }

@@ -9,9 +9,6 @@
     },
     "formalCharges": [0, 0, 0, 0, 0]
   },
-  "partialCharges": {
-    "Gasteiger": [-0.527224, -0.07648, 0.201237, 0.201227, 0.201241]
-  },
   "bonds": {
     "connections": {
       "index": [4, 0, 0, 1, 0, 3, 0, 2]
@@ -19,7 +16,6 @@
     "order": [1, 1, 1, 1]
   },
   "properties": {
-    "name": "iodomethane.out",
     "totalCharge": 0,
     "totalSpinMultiplicity": 1
   }

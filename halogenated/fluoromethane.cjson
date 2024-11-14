@@ -9,9 +9,6 @@
     },
     "formalCharges": [0, 0, 0, 0, 0]
   },
-  "partialCharges": {
-    "Gasteiger": [-0.193934, -0.287788, 0.160577, 0.160573, 0.160572]
-  },
   "bonds": {
     "connections": {
       "index": [3, 0, 1, 0, 0, 4, 0, 2]
@@ -19,7 +16,6 @@
     "order": [1, 1, 1, 1]
   },
   "properties": {
-    "name": "fluoromethane.out",
     "totalCharge": 0,
     "totalSpinMultiplicity": 1
   }

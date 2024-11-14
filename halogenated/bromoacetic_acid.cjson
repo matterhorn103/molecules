@@ -9,9 +9,6 @@
     },
     "formalCharges": [0, 0, 0, 0, 0, 0, 0, 0]
   },
-  "partialCharges": {
-    "Gasteiger": [-0.290741, 0.381365, -0.34782, -0.502427, 0.0, 0.0, 0.0, 0.0]
-  },
   "bonds": {
     "connections": {
       "index": [3, 7, 3, 1, 2, 1, 1, 0, 5, 0, 0, 4, 0, 6]
@@ -19,7 +16,6 @@
     "order": [1, 1, 2, 1, 1, 1, 1]
   },
   "properties": {
-    "name": "bromoacetic_acid.out",
     "totalCharge": 0,
     "totalSpinMultiplicity": 1
   }

@@ -9,9 +9,6 @@
     },
     "formalCharges": [0, 0, 0, 0, 0, 0]
   },
-  "partialCharges": {
-    "Gasteiger": [-0.236266, 0.11395, -0.37099, 0.140109, 0.17908, 0.174117]
-  },
   "bonds": {
     "connections": {
       "index": [3, 1, 0, 1, 1, 2, 2, 5, 2, 4]
@@ -19,7 +16,6 @@
     "order": [1, 1, 2, 1, 1]
   },
   "properties": {
-    "name": "vinyl_fluoride.out",
     "totalCharge": 0,
     "totalSpinMultiplicity": 1
   }

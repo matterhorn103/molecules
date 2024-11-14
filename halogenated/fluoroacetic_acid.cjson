@@ -9,9 +9,6 @@
     },
     "formalCharges": [0, 0, 0, 0, 0, 0, 0, 0]
   },
-  "partialCharges": {
-    "Gasteiger": [-0.276398, -0.068822, 0.351014, -0.505733, -0.352154, 0.19719, 0.197196, 0.457706]
-  },
   "bonds": {
     "connections": {
       "index": [3, 7, 3, 2, 4, 2, 2, 1, 1, 0, 1, 6, 1, 5]
@@ -19,7 +16,6 @@
     "order": [1, 1, 2, 1, 1, 1, 1]
   },
   "properties": {
-    "name": "fluoroacetic_acid.out",
     "totalCharge": 0,
     "totalSpinMultiplicity": 1
   }

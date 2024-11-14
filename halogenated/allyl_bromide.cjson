@@ -9,9 +9,6 @@
     },
     "formalCharges": [0, 0, 0, 0, 0, 0, 0, 0, 0]
   },
-  "partialCharges": {
-    "Gasteiger": [-0.348471, -0.094265, -0.308777, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
-  },
   "bonds": {
     "connections": {
       "index": [6, 1, 4, 0, 8, 2, 1, 0, 1, 2, 0, 5, 2, 7, 2, 3]
@@ -19,7 +16,6 @@
     "order": [1, 1, 1, 2, 1, 1, 1, 1]
   },
   "properties": {
-    "name": "allyl_bromide.out",
     "totalCharge": 0,
     "totalSpinMultiplicity": 1
   }

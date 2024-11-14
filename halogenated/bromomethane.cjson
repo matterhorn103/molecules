@@ -9,9 +9,6 @@
     },
     "formalCharges": [0, 0, 0, 0, 0]
   },
-  "partialCharges": {
-    "Gasteiger": [-0.439071, 0.0, 0.0, 0.0, 0.0]
-  },
   "bonds": {
     "connections": {
       "index": [2, 0, 3, 0, 1, 0, 0, 4]
@@ -19,7 +16,6 @@
     "order": [1, 1, 1, 1]
   },
   "properties": {
-    "name": "bromomethane.out",
     "totalCharge": 0,
     "totalSpinMultiplicity": 1
   }

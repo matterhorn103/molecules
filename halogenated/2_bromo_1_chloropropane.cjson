@@ -9,9 +9,6 @@
     },
     "formalCharges": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
   },
-  "partialCharges": {
-    "Gasteiger": [-0.482733, -0.135397, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
-  },
   "bonds": {
     "connections": {
       "index": [9, 3, 10, 3, 3, 4, 3, 1, 6, 0, 2, 1, 1, 0, 1, 8, 0, 7, 0, 5]
@@ -19,7 +16,6 @@
     "order": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
   },
   "properties": {
-    "name": "2_bromo_1_chloropropane.out",
     "totalCharge": 0,
     "totalSpinMultiplicity": 1
   }

@@ -9,9 +9,6 @@
     },
     "formalCharges": [0, 0, 0, 0, 0, 0]
   },
-  "partialCharges": {
-    "Gasteiger": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
-  },
   "bonds": {
     "connections": {
       "index": [1, 0, 5, 0, 3, 0, 0, 4, 0, 2]
@@ -19,7 +16,6 @@
     "order": [1, 1, 1, 1, 1]
   },
   "properties": {
-    "name": "5-square-pyramidal.out.gz",
     "totalCharge": 0,
     "totalSpinMultiplicity": 2
   }
